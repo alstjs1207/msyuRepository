@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-체크체크.. 롬곡옾높
+체크체크
 </body>
 </html>

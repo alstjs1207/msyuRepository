@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-제발 플리즈
-와 씨 됐다 와 레알 눈물난다 ... 롬곡옾높
+ 리스트
 </body>
 </html>
